@@ -1,2 +1,2 @@
-# bankApp
-Trying to make an bank app
+# Fintech App
+Finctech sys based on python
