@@ -1,2 +1,2 @@
 # Fintech App
-Finctech sys based on python
+Fintech sys based on python
